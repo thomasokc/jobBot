@@ -1,0 +1,7 @@
+{
+    "email" : "",
+    "password" : "",
+    "keywords" : ["Jr Web Developer"], 
+    "location" : ["Remote"],
+    "driver_path" : "driver/chromedriver"
+}
